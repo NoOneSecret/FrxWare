@@ -1,5 +1,5 @@
 local words = {
-    'FrxWare W',
+    'SaturnWare W',
     'trash',
     'sonned',
     'bad',
@@ -7,6 +7,10 @@ local words = {
     'ez',
     '🐱',
     'Pushing 🅿️',
+    'is your screen even on?',
+    'seed',
+    'get good son',
+    'are you playing with a touchpad to ba that bad?',
 }
 
 local player = game.Players.LocalPlayer
